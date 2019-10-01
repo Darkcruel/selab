@@ -28,7 +28,6 @@ const styles = {
     },
     appBar:{
         background: 'linear-gradient(45deg, darkblue 60%, skyblue 30%)',
-        position : 'relative',
     },
     menuButton: {
         marginRight: 'auto'

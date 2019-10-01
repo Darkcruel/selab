@@ -9,6 +9,10 @@ import Publication from './components/Publications';
 import Course from './components/Courses';
 import Gallery from './components/Gallery';
 
+
+
+
+
 class App extends React.Component {
   render() {
     return (

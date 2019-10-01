@@ -8,6 +8,11 @@ class Notice extends React.Component {
             <Card>
                 <CardContent>
                     Noitce
+                    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+                    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+                    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+                    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+                    ddddd
                 </CardContent>
             </Card>
         );
