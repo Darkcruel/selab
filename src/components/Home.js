@@ -12,6 +12,7 @@ const pics = [
     process.env.PUBLIC_URL + '/img/3.png',
   ];
   
+
   class Home extends React.Component {
     constructor(props) {
       super(props);
@@ -62,10 +63,10 @@ const pics = [
       }
       return (
         <div>
-            <div className="homeimage">
-                <div className="mask">
-                <div className="pic-wrapper">
-                    <div className={`current pic ${move}`}>
+            <div>
+                <div>
+                <div>
+                    <div>
                     <img src={pics[this.state.index]} alt="" />
                     </div>
 
